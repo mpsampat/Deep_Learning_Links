@@ -14,7 +14,8 @@ My list of useful links and notes
 <details><summary>Image Segmentation with Deep Learning</summary></p> 
 
 1. [Fantastic 2017 Semantic Segmentation Blog from Qure.AI](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
-2. [Receptive-Field Arithmetic for CNN](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+2. [Semantic Segmentation with U-NET by Kerem Turgutlu](https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066)
+3. [Receptive-Field Arithmetic for CNN](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
    1. [Compute Receptive Field Of Neuron In Matlab](https://mathematica.stackexchange.com/questions/133927/how-to-compute-the-receptive-field-of-a-neuron/151825#151825)
 
 </p></details>
@@ -41,6 +42,16 @@ My list of useful links and notes
 
 </p></details>
 
+<details><summary>Other Blogs</p></p></details>
+
+| Blogs                                                   | Github                                                       | Medium                                          |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| [Bharath Ramsundar](http://rbharath.github.io/)         | [Bharath Ramsundar](https://github.com/rbharath)             |                                                 |
+| [Andrej Karpathy](http://karpathy.github.io/)           | [Andrej Karpathy](https://github.com/karpathy/karpathy.github.io) | [Andrej Karpathy](https://medium.com/@karpathy) |
+| [Rohan Varma](http://rohanvarma.me/)                    | [Rohan Varma](https://github.com/rohan-varma)                |                                                 |
+| [Anish Athalye](https://www.anishathalye.com/projects/) | [Anish Athalye](https://github.com/anishathalye)             |                                                 |
+| [Adit Deshpande](https://adeshpande3.github.io/)        | [Adit Deshpande](https://github.com/adeshpande3)             |                                                 |
+
 ### How-To
 
 <details><summary>Markdown Help pages</summary></p>
@@ -57,6 +68,8 @@ My list of useful links and notes
 https://docusaurus.io/
 
 http://bamos.github.io/reading-list/
+
+https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6
 
 </p></details>
 
