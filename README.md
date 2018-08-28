@@ -1,14 +1,7 @@
 # Technical_Links
-My list of useful links and notes
+<!--- <details><summary>Template Section </p> </p> </details>-->
 
-```
-<!---
-<details><summary>Template Section</summary>
-</p>
-</p>
-</details>
--->
-```
+My list of useful links and notes
 
 ### Deep Learning
 
@@ -45,11 +38,11 @@ My list of useful links and notes
 
 ### How-To
 
-<details><summary>"How to" Section</summary>
+<details><summary>Markdown Help pages</summary>
 </p>
 
-1. How to create collapsible markdown
-   1. https://gist.githubusercontent.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f/raw/f774f242feff6bae4a5be7d6c71aa5df2e3fcb0e/README.md
+1. [Markdown Cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [Create Collapsible Markdown; as used in this Readme file](https://gist.githubusercontent.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f/raw/f774f242feff6bae4a5be7d6c71aa5df2e3fcb0e/README.md)
 
 </p>
 </details>
