@@ -1,8 +1,7 @@
 # Deep_Learning_Links
 My list of useful links and notes
 
-<details><summary>Deep Learning Math Links</summary>
-</p>
+<details><summary>Deep Learning Math Links</summary></p>
 
 1. http://explained.ai/matrix-calculus/index.html
 
@@ -31,9 +30,9 @@ My list of useful links and notes
 <details><summary>Machine learning: Interesting links for future Reading</summary>
 </p>
 
-1. [Fantastic blog by Terrence Parr and Jeremy Howard] http://explained.ai/
-   1. [Beware Default Random Forest Importances ] http://explained.ai/rf-importance/index.html
-   2. [How to Example Gradient Boosting] http://explained.ai/gradient-boosting/index.html
+1. [Fantastic blog by Terrence Parr and Jeremy Howard](http://explained.ai/)
+   1. [Beware Default Random Forest Importances ](http://explained.ai/rf-importance/index.html)
+   2. [How to Example Gradient Boosting](http://explained.ai/gradient-boosting/index.html) 
 
 </p>
 </details>
