@@ -1,6 +1,15 @@
 # Technical_Links
 My list of useful links and notes
 
+```
+<!---
+<details><summary>Template Section</summary>
+</p>
+</p>
+</details>
+-->
+```
+
 ### Deep Learning
 
 <details><summary>Deep Learning Math Links</summary></p>
@@ -9,6 +18,8 @@ My list of useful links and notes
 
 </p>
 </details>
+
+
 
 <details><summary>Deep Learning Toolkits for Medical Imaging</summary>
 <p>
