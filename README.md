@@ -1,5 +1,5 @@
 # Technical_Links
-<!--- <details><summary>Template Section</p></p></details>-->
+<!--- <details><summary>Template Section</p></summary></p></details>-->
 
 My list of useful links and notes
 
@@ -42,7 +42,7 @@ My list of useful links and notes
 
 </p></details>
 
-<details><summary>Other Blogs</p></p></details>
+<details><summary>Other Blogs</p></summary>
 
 | Blogs                                                   | Github                                                       | Medium                                          |
 | ------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- |
@@ -51,6 +51,8 @@ My list of useful links and notes
 | [Rohan Varma](http://rohanvarma.me/)                    | [Rohan Varma](https://github.com/rohan-varma)                |                                                 |
 | [Anish Athalye](https://www.anishathalye.com/projects/) | [Anish Athalye](https://github.com/anishathalye)             |                                                 |
 | [Adit Deshpande](https://adeshpande3.github.io/)        | [Adit Deshpande](https://github.com/adeshpande3)             |                                                 |
+
+</p></details>
 
 ### How-To
 
