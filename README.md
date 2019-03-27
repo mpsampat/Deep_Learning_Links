@@ -51,6 +51,7 @@ My list of useful links and notes
 | [Rohan Varma](http://rohanvarma.me/)                    | [Rohan Varma](https://github.com/rohan-varma)                |                                                 |
 | [Anish Athalye](https://www.anishathalye.com/projects/) | [Anish Athalye](https://github.com/anishathalye)             |                                                 |
 | [Adit Deshpande](https://adeshpande3.github.io/)        | [Adit Deshpande](https://github.com/adeshpande3)             |                                                 |
+| [Swetha Tanamala](<https://swethatanamala.github.io/)   |                                                              |                                                 |
 
 </p></details>
 
